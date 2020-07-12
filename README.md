@@ -1,10 +1,10 @@
-### Hi there 👋
+### Greetings, traveler!
 
 <!--
 **lcebear/lcebear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Currently working on my Master Thesis in the area of social chatbots: https://github.com/lcebear/memoryDialogueBot
+
+Interests: AI, ML, game development, gaming, live streaming and drawing.
+
+Contact: mikvi575@student.liu.se
