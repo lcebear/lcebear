@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Portolio / Past projects: https://lcebear.github.io/projects.html
+
 Currently working on my Master Thesis in the area of social chatbots: https://github.com/lcebear/memoryDialogueBot
 
 Interests: AI, ML, game development, gaming, live streaming and drawing.
