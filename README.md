@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 Portolio / Past projects: https://lcebear.github.io/projects.html
 
-Currently working on Gondola's Adventure : https://store.steampowered.com/app/1473540/Gondolas_Adventure/
-
 Interests: AI, ML, game development, gaming, live streaming and drawing.
 
 Contact: mikvi575@student.liu.se
