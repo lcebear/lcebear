@@ -18,4 +18,4 @@ Portolio / Past projects: https://lcebear.github.io/projects.html
 
 Interests: AI, ML, game development, gaming, live streaming and drawing.
 
-Contact: mikvi575@student.liu.se
+Contact: miklun96@gmail.com
